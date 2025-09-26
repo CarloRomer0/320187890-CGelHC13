@@ -1,0 +1,25 @@
+# Blender 4.5.3 LTS MTL File: '01-passat-generic-sedan-full-v1.blend'
+# www.blender.org
+
+newmtl MetalStainlessSteelBrushedElongated005_2K
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/MetalStainlessSteelBrushedElongated005_COL_2K_METALNESS.jpg
+map_Ns C:/MetalStainlessSteelBrushedElongated005_ROUGHNESS_2K_METALNESS.jpg
+map_refl C:/MetalStainlessSteelBrushedElongated005_METALNESS_2K_METALNESS.jpg
+map_Bump -bm 1.000000 C:/MetalStainlessSteelBrushedElongated005_NRM16_2K_METALNESS.tif
+
+newmtl tire-low
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/tire-low-diffuse.png
+map_Ns C:/tire-low-roughness.png
+map_Bump -bm 1.000000 C:/tire-low-normal.png

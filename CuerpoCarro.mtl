@@ -1,0 +1,232 @@
+# Blender 4.5.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl Car_Paint_-_All_Colors
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Glass_-_Clear
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Glass_-_Clear_-_Bumps
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Glass_-_Red
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Glass_-_Red_-_Rough
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.054963 0.003446 0.004992
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Glass_ext
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.500000
+illum 9
+
+newmtl Glass_ext-tinted
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.750000
+illum 9
+
+newmtl Headlight_Metal
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.380000 0.380000 0.380000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Metal-dark
+Ns 632.748108
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl MetalStainlessSteelBrushedElongated005_2K
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/MetalStainlessSteelBrushedElongated005_COL_2K_METALNESS.jpg
+map_Ns C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/MetalStainlessSteelBrushedElongated005_ROUGHNESS_2K_METALNESS.jpg
+map_refl C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/MetalStainlessSteelBrushedElongated005_METALNESS_2K_METALNESS.jpg
+map_Bump -bm 1.000000 C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/MetalStainlessSteelBrushedElongated005_NRM16_2K_METALNESS.tif
+
+newmtl MetalStainlessSteelBrushedElongated005_2K.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/MetalStainlessSteelBrushedElongated005_COL_2K_METALNESS.jpg
+map_Ns C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/MetalStainlessSteelBrushedElongated005_ROUGHNESS_2K_METALNESS.jpg
+map_refl C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/MetalStainlessSteelBrushedElongated005_METALNESS_2K_METALNESS.jpg
+map_Bump -bm 1.000000 C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/MetalStainlessSteelBrushedElongated005_NRM16_2K_METALNESS.tif
+
+newmtl Metal_-_Black_-_Rough_0.2
+Ns 640.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.042736 0.042736 0.042736
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Metal_-_Chrome_-_Rough
+Ns 640.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.317294 0.317294 0.317294
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Plastic_ext_gloss
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.010915 0.010915 0.010915
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Plastic_ext_matt
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.010915 0.010915 0.010915
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Rubber_-_Black
+Ns 422.499969
+Ka 1.000000 1.000000 1.000000
+Kd 0.008075 0.008075 0.008075
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl car-bottom
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/car-bottom_Base_Color.png
+map_Ns C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/car-bottom_Roughness.png
+map_refl C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/car-bottom_Metallic.png
+map_Bump -bm 1.000000 C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/car-bottom_Normal_DirectX.png
+
+newmtl engine
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/engine-transmission-radiator-texture.png
+map_Ns C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/engine-transmission-radiator-roughness.png
+map_d C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/engine-transmission-radiator-texture.png
+map_Bump -bm 1.000000 C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/engine-transmission-radiator-normal.png
+
+newmtl honeycomb-grill-pattern
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/honeycomb-grill-pattern.png
+map_d C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/honeycomb-grill-pattern.png
+
+newmtl honeycomb-grill-pattern-small
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/honeycomb-grill-pattern-small.png
+map_d C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/honeycomb-grill-pattern-small.png
+
+newmtl interior
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/interior_diffuse.png
+map_Ns C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/interior_Roughness.png
+map_Bump -bm 1.000000 C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/interior_Normal_DirectX.png
+
+newmtl suspension-pipe-brakes
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/suspension-pipe-brakes_Base_Color.png
+map_Ns C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/suspension-pipe-brakes_Roughness.png
+map_refl C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/suspension-pipe-brakes_Metallic.png
+map_Bump -bm 1.000000 C:/Users/CMRC9/Downloads/ModelsFinal/C:/Users/CMRC9/Downloads/NewModels/C:/suspension-pipe-brakes_Normal_DirectX.png
